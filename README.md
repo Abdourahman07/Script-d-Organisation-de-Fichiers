@@ -14,7 +14,7 @@ Ce script Python vous aide à organiser automatiquement vos fichiers télécharg
 
 ## Utilisation
 1. Ouvrez le script `organize_downloads.py` dans un éditeur de texte.
-2. Remplacez le chemin dans la ligne `organize_downloads(r'C:/Users/votre-nom-utilisateur/Téléchargements')` par le chemin réel de votre dossier de téléchargements.
+2. Remplacez le chemin dans la ligne `organize_downloads(r'C:\Users\nour-omar\Downloads')` par le chemin réel de votre dossier de téléchargements.
 3. Exécutez le script en utilisant Python :
    ```sh
    python organize_downloads.py
